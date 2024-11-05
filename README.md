@@ -1,4 +1,4 @@
-SQL Sorgu Açıklamaları
+### SQL Sorgu Açıklamaları
 
 Bu dosya, film veritabanında kullanılan SQL sorgularının amacını ve sonuçlarını açıklar.
 
